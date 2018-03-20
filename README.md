@@ -3,26 +3,26 @@ My personal settings and extensions preferences
 
 ## Extensions
 ```
-akamud.vscode-theme-onelight                          
-andys8.jest-snippets                                  
-christian-kohler.npm-intellisense                     
-christian-kohler.path-intellisense                    
-dbaeumer.vscode-eslint                                
-donjayamanne.githistory                               
-esbenp.prettier-vscode                                
-formulahendry.auto-close-tag                          
-formulahendry.auto-rename-tag                         
-hoovercj.vscode-settings-cycler                       
-lafe.contextualduplicate                              
-ms-vscode.PowerShell                                  
-msjsdiag.debugger-for-chrome                          
-Orta.vscode-jest                                      
-PeterJausovec.vscode-docker                           
-streetsidesoftware.code-spell-checker                 
-streetsidesoftware.code-spell-checker-russian         
-thenikso.github-plus-theme                            
-wmaurer.change-case                                   
-xabikos.ReactSnippets                                 
+akamud.vscode-theme-onelight                   
+andys8.jest-snippets                           
+christian-kohler.npm-intellisense              
+christian-kohler.path-intellisense             
+dbaeumer.vscode-eslint                         
+donjayamanne.githistory                        
+esbenp.prettier-vscode                         
+formulahendry.auto-close-tag                   
+formulahendry.auto-rename-tag                  
+hoovercj.vscode-settings-cycler                
+lafe.contextualduplicate                       
+ms-vscode.PowerShell                           
+msjsdiag.debugger-for-chrome                   
+Orta.vscode-jest                               
+PeterJausovec.vscode-docker                    
+streetsidesoftware.code-spell-checker          
+streetsidesoftware.code-spell-checker-russian  
+thenikso.github-plus-theme                     
+wmaurer.change-case                            
+xabikos.ReactSnippets                                                 
 ```
 
 ## Settings
@@ -64,13 +64,12 @@ xabikos.ReactSnippets
     //
     // == VAR ==
     //
-    "cSpell.language": "en,ru",
+    "cSpell.language": "en,ru",    
 }
 ```
 
 ## Shortcuts
 ```js
-// Поместите настраиваемые сочетания клавиш в этот файл, чтобы перезаписать клавиши по умолчанию.
 [
     {
         "key": "ctrl+d",
