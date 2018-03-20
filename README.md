@@ -8,11 +8,12 @@ andys8.jest-snippets
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 dbaeumer.vscode-eslint
+donjayamanne.githistory
 esbenp.prettier-vscode
-felipe-mendes.slack-theme
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 lafe.contextualduplicate
+ms-vscode.PowerShell
 msjsdiag.debugger-for-chrome
 Orta.vscode-jest
 PeterJausovec.vscode-docker
