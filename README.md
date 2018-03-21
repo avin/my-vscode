@@ -34,8 +34,8 @@ xabikos.ReactSnippets
     "workbench.colorTheme": "GitHub Plus",
     "window.menuBarVisibility": "toggle",
     "editor.minimap.enabled": false,
-    "editor.fontSize": 15,
-    "editor.lineHeight": 18,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 17,
     "editor.formatOnSave": true,
     "editor.trimAutoWhitespace": false,
     "editor.fontLigatures": true,
@@ -64,7 +64,8 @@ xabikos.ReactSnippets
     //
     // == VAR ==
     //
-    "cSpell.language": "en,ru",    
+    "cSpell.language": "en,ru",
+    "window.zoomLevel": 2,
 }
 ```
 
