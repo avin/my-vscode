@@ -22,7 +22,8 @@ streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian  
 thenikso.github-plus-theme                     
 wmaurer.change-case                            
-xabikos.ReactSnippets                                                 
+xabikos.ReactSnippets     
+rafaelmaiolla.remote-vscode
 ```
 
 ## Settings
@@ -40,6 +41,7 @@ xabikos.ReactSnippets
     "editor.trimAutoWhitespace": false,
     "editor.fontLigatures": true,
     "editor.tabSize": 4,
+    "editor.lineNumbers": "off",
     "files.autoSave": "onFocusChange",
     "explorer.openEditors.visible": 0,
     //
@@ -62,10 +64,19 @@ xabikos.ReactSnippets
     "workbench.activityBar.visible": true,
     "workbench.statusBar.visible": true,
     //
+    // == ASSOCIATIONS ==
+    //
+    "files.associations": {
+        "*.pcss": "css",
+        "*.js.snap": "javascript",
+        ".prettierrc": "json"
+    },
+    //
     // == VAR ==
     //
     "cSpell.language": "en,ru",
     "window.zoomLevel": 2,
+    "remote.onstartup": true,
 }
 ```
 
