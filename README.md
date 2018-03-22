@@ -103,7 +103,7 @@ rafaelmaiolla.remote-vscode
         "command": "workbench.action.files.openFolder"
     },
     {
-        "key": "F12",
+        "key": "F1",
         "command": "settings.cycle",
         "args": {
             "id": "light",
@@ -117,6 +117,10 @@ rafaelmaiolla.remote-vscode
                 }
             ]
         }
+    },
+    {
+        "key": "F12",
+        "command": "workbench.action.toggleActivityBarVisibility",
     }
 ]
 ```
