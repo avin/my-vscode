@@ -72,6 +72,13 @@ rafaelmaiolla.remote-vscode
         ".prettierrc": "json"
     },
     //
+    // == RMATE ==
+    //
+    "remote.port": 52698,
+    "remote.onstartup": true,
+    "remote.host": "127.0.0.1",
+    "remote.dontShowPortAlreadyInUseError": false,
+    //
     // == VAR ==
     //
     "cSpell.language": "en,ru",
