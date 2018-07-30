@@ -1,0 +1,44 @@
+{
+  // == MAIN ==
+  "workbench.colorTheme": "GitHub Plus",
+  "window.menuBarVisibility": "toggle",
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 18,
+  "editor.formatOnSave": true,
+  "editor.trimAutoWhitespace": false,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 4,
+  "editor.lineNumbers": "off",
+  "files.autoSave": "onFocusChange",
+  "explorer.openEditors.visible": 0,
+  // == EMMET ==
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "javascriptreact"
+  },
+  // == PRETTIER ==
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 4,
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
+  // == ASSOCIATIONS ==
+  "files.associations": {
+    "*.pcss": "css",
+    "*.js.snap": "javascript",
+    ".prettierrc": "json"
+  },
+  // == RMATE ==
+  "remote.port": 52698,
+  "remote.onstartup": true,
+  "remote.host": "127.0.0.1",
+  "remote.dontShowPortAlreadyInUseError": false,
+  // == VAR ==
+  "cSpell.language": "en,ru",
+  "window.zoomLevel": 1,
+  "remote.onstartup": true
+}

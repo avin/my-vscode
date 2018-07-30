@@ -1,0 +1,41 @@
+[
+    {
+        "key": "ctrl+d",
+        "command": "lafe.duplicateCode",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "workbench.files.action.showActiveFileInExplorer",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+u",
+        "command": "extension.changeCase.commands",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "workbench.action.files.openFolder"
+    },
+    {
+        "key": "F1",
+        "command": "settings.cycle",
+        "args": {
+            "id": "light",
+            "overrideWorkspaceSettings": true,
+            "values": [
+                {
+                    "workbench.colorTheme": "GitHub Plus"
+                },
+                {
+                    "workbench.colorTheme": "Visual Studio Dark"
+                }
+            ]
+        }
+    },
+    {
+        "key": "F12",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    }
+]
